@@ -1,6 +1,3 @@
-# Homepage
+# Welcome to my portfolio!
 
-Welcome to the homepage. Here are some links to try:
-* Link 1
-* Link 2
-* Link 3
+In this portfolio I will be showcasing some of the work I've done over the quadmester.
