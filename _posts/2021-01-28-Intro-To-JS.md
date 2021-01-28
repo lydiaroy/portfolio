@@ -7,7 +7,7 @@ This module probably had the most impact on me as a whole. Firstly, it’s what 
 This updated
 
 Here is a Gif of a complete project in this module:  
-![Gif of the shooting star project](/assets/images/intro-to-js.gif)  
+![Gif of the shooting star project](https://raw.githubusercontent.com/lydiaroy/portfolio/master/assets/images/intro-to-js.gif)  
 This project can be found here at <a href="https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5712869529960448">Khan Academy</a>  
 
 And here is an image of another:  
