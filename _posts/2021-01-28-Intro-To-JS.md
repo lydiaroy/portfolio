@@ -9,5 +9,5 @@ Here is a Gif of a complete project in this module:
 This project can be found here at <a href="https://www.khanacademy.org/computer-programming/spin-off-of-project-shooting-star/5712869529960448">Khan Academy</a>  
 
 And here is an image of another:  
-<img src="/assets/images/intro-to-js.png" alt="Image of the project.">
+<img src="/assets/images/intro-to-js.png" alt="Image of the project.">  
 This project can be found here at <a href="https://www.khanacademy.org/computer-programming/spin-off-of-project-fish-tank/6725275719516160">Khan Academy</a>
