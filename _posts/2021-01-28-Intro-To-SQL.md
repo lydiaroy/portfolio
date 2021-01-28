@@ -1,5 +1,5 @@
 ---
-layour: post
+layout: post
 title: "Intro To SQL"
 date: 2021-01-28
 ---
