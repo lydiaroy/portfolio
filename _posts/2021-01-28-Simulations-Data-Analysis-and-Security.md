@@ -1,0 +1,5 @@
+---
+title: "Simulations, Data Analysis and Security"
+date: 2021-01-28
+---
+These three lessons brought a lot of clarity to things I’d always wondered about. Cyber security is complex and so much goes into it but I think that’s what makes it all the more impressive. I learned a lot about a wide range of things over the course of these three lessons. Security was by far my favourite, but I took a lot away from all of them. Online data security covered a variety of topics, such as data encryption, PII, tracking and all sorts of online attacks. Simulations explained what a simulation is and how they can be useful in so many ways. Data analysis introduced some concepts, like big data, and it also expanded on topics I’d heard about but never looked into, such as data sets and bias. Before I did these courses (and the others in computer science principles), I believed that the only part of computer science I should really care about was the programming itself. This showed me otherwise and that there’s so much more to it than just the lines of code.
