@@ -1,0 +1,5 @@
+---
+title: "Computer Innovations and The Internet"
+date: 2021-01-28
+---
+This computer science principles course explained in great detail about innovations that have been made with computers over the years as well as how the internet works and has come along. It was really interesting to learn about the progress that has been made over the years with all sorts of computer-related technologies. For example, there were innovations in many domains, but the one I found to be the most valuable was the innovations in social media. I feel that I took the most away from this subject because social media is something that I use every single day and it greatly impacts my life. Without social media, most of my entertainment and my communication tools would be non-existent and life would be drastically different. Finally, the internet course got me interested in how the internet works and how it came to be. It was helpful to be shown diagrams of the packets traveling and have how/why the internet works like it does in great detail. I also got a better understanding of IP addresses and other important parts of the internet such as DNS and HTTP.
