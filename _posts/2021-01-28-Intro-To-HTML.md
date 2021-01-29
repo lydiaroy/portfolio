@@ -8,6 +8,6 @@ Here is a Gif of a complete project:
 <img src="https://raw.githubusercontent.com/lydiaroy/portfolio/master/assets/images/intro-to-html.gif" alt="Image of the Blog project.">  
 This project can be found here at <a href="https://www.khanacademy.org/computer-programming/spin-off-of-project-blog/4531226723958784">Khan Academy</a>
 
-Here is an image of another
+Here is an image of another:  
 <img src="https://raw.githubusercontent.com/lydiaroy/portfolio/master/assets/images/intro-to-html.png" alt="Image of the Travel Webpage project.">  
 This project can be found here at <a href="https://www.khanacademy.org/computer-programming/spin-off-of-project-travel-webpage/6122594114158592">Khan Academy</a>
